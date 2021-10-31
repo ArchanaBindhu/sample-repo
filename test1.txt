@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is DC73-4F1A
+
+ Directory of C:\Users\ustfsd24\Desktop\project 1a
+
+31-10-2021  13:55    <DIR>          .
+31-10-2021  13:55    <DIR>          ..
+31-10-2021  13:55                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  157,856,542,720 bytes free
